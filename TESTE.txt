@@ -1,0 +1,47 @@
+### ENDEREÇOS IPV4
+172.17.0.1
+172.18.0.1
+192.168.56.1
+8.8.8.8
+8.8.6.6
+10.10.100.5
+143.166.30.172
+
+
+### ENDEREÇOS IPV6
+2001:db8:0000:1:1:1:1:1
+0:0:0:0:0:0:0:0
+2001:db8:0:0:1::1
+3FFE:FFFF:7654:FEDA:1245:BA98:3210:4562
+fe80::800:27ff:fe00:0
+fe80::890:ce1a:444c:91b9
+
+
+### ENDEREÇOS MAC
+ether 02:42:16:99:e9:40
+ether 0a:00:27:00:00:00
+
+
+### URLs
+www.google.com
+https://www.youtube.com/watch?v=CYkH3dnZttg
+https://learn.microsoft.com/pt-br/dotnet/fundamentals/
+
+
+### EMAILS
+fulaninho@teste.com
+ze@alguma.coisa
+qualquer@email
+admin@local.com
+diego@gmail.com
+
+
+### DIRETORIOS
+d:\
+/root/
+c:\windows
+x:\baboseiras
+e:\tmp
+s:\windows\sys32
+/user/home
+/var/log/
